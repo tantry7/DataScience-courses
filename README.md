@@ -2,7 +2,7 @@
 Bunch of Data-science related courses, their projects courses and assignments.
 
 <h2>Introduction to Data Science</h2>
-<h3>University of michigain</h3>
+<h3>University of Michigan</h3>
 <p> Taught by Pr.Christopher Brooks, includes the following Topics</p>
 <ul>
 <li>Introduction to Datascience</li>
